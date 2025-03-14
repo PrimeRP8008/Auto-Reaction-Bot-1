@@ -1,3 +1,7 @@
 name = "auto-reaction-bot"
-main = "api/worker.js"
-compatibility_date = "2024-06-02"
+type = "javascript"
+account_id = "586aff3a1473a645947c1fafa98c7fd1"
+workers_dev = true
+route = ""
+zone_id = ""
+main = "api/index.js"
